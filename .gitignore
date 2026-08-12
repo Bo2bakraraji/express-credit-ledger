@@ -1,0 +1,5 @@
+node_modules/
+dist/
+backups/
+backup-secrets.ps1
+*.local
