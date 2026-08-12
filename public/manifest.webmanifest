@@ -1,0 +1,10 @@
+{
+  "name": "Express Credit Ledger",
+  "short_name": "Express Ledger",
+  "description": "Customer credit and payment ledger for Express",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafbf8",
+  "theme_color": "#194d38",
+  "icons": [{"src":"/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
